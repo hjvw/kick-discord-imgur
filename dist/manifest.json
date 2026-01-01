@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "TS Request Interceptor",
+  "name": "kick-discord-imgur",
   "version": "1.0.0",
-  "description": "Chrome extension in TypeScript",
+  "description": "kick-dc-imgur",
 
   "permissions": [
     "activeTab",
@@ -27,4 +27,5 @@
     }
   ]
 }
+
 
